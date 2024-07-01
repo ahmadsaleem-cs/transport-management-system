@@ -1,0 +1,44 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+   
+}
+
+    .footerlinks:hover {
+        color: #ffd800;
+    }
+
+#footer1 {
+    background: #909090;
+   
+}
+
+#footer2 {
+    background: #202020;
+    margin-bottom: 0px;
+ 
+
+}
+#loginmain
+{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+#adminloginmain {
+    padding-top: 72px;
+    padding-bottom: 72px;
+}
+.button{
+
+}
+
+#head h2{
+    padding-right:800px;
+    padding-top:70px;
+}
+#imag{
+    padding-bottom="20px"
+}
+#drive{
+    padding-top:40px;
+}

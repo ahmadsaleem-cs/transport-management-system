@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SDA 5TH Semester\\tms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|d:\\sda 5th semester\\tms\\tms\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|D:\\SDA 5TH Semester\\tms\\tms\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|D:\\SDA 5TH Semester\\tms\\tms\\adminbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\adminbooking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|D:\\SDA 5TH Semester\\tms\\tms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|D:\\SDA 5TH Semester\\tms\\tms\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|d:\\sda 5th semester\\tms\\tms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|D:\\SDA 5TH Semester\\tms\\tms\\booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{63115C9D-6274-42A4-A8ED-74B7F5BAC1DE}|tms\\tms.csproj|solutionrelative:tms\\booking.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userlogin.aspx",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\userlogin.aspx",
+              "RelativeDocumentMoniker": "tms\\userlogin.aspx",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\userlogin.aspx",
+              "RelativeToolTip": "tms\\userlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-01T20:51:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminbooking.aspx",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\adminbooking.aspx",
+              "RelativeDocumentMoniker": "tms\\adminbooking.aspx",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\adminbooking.aspx",
+              "RelativeToolTip": "tms\\adminbooking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T01:50:43.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "tms\\Site1.Master.cs",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\Site1.Master.cs",
+              "RelativeToolTip": "tms\\Site1.Master.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:46:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "tms\\adminlogin.aspx",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\adminlogin.aspx",
+              "RelativeToolTip": "tms\\adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T01:45:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\Site1.Master",
+              "RelativeDocumentMoniker": "tms\\Site1.Master",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\Site1.Master",
+              "RelativeToolTip": "tms\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T01:45:41.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "tms\\WebForm1.aspx",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\WebForm1.aspx",
+              "RelativeToolTip": "tms\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T01:45:29.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.aspx",
+              "DocumentMoniker": "D:\\SDA 5TH Semester\\tms\\tms\\Booking.aspx",
+              "RelativeDocumentMoniker": "tms\\Booking.aspx",
+              "ToolTip": "D:\\SDA 5TH Semester\\tms\\tms\\Booking.aspx",
+              "RelativeToolTip": "tms\\Booking.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-05T01:45:01.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

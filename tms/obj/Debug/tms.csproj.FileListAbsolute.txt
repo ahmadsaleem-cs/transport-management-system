@@ -1,0 +1,112 @@
+C:\Users\HP\Desktop\tms\tms\bin\tms.dll.config
+C:\Users\HP\Desktop\tms\tms\bin\tms.dll
+C:\Users\HP\Desktop\tms\tms\bin\tms.pdb
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.IO.Pipes.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Claims.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\tms\tms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\tms\tms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\tms\tms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\tms\tms\obj\Debug\tms.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\tms\tms\obj\Debug\tms.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tms\tms\obj\Debug\tms.csproj.CopyComplete
+C:\Users\HP\Desktop\tms\tms\obj\Debug\tms.dll
+C:\Users\HP\Desktop\tms\tms\obj\Debug\tms.pdb
+D:\SDA 5TH Semester\tms\tms\bin\tms.dll.config
+D:\SDA 5TH Semester\tms\tms\bin\tms.dll
+D:\SDA 5TH Semester\tms\tms\bin\tms.pdb
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csc.exe
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csc.exe.config
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csc.rsp
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csi.exe
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csi.exe.config
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\csi.rsp
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.AppContext.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Collections.Immutable.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Console.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.IO.Compression.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.IO.FileSystem.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.IO.Pipes.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Reflection.Metadata.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.AccessControl.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Claims.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.ValueTuple.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Xml.XPath.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\vbc.exe
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\vbc.exe.config
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\vbc.rsp
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\VBCSCompiler.exe
+D:\SDA 5TH Semester\tms\tms\bin\roslyn\VBCSCompiler.exe.config
+D:\SDA 5TH Semester\tms\tms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SDA 5TH Semester\tms\tms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SDA 5TH Semester\tms\tms\obj\Debug\tms.csproj.AssemblyReference.cache
+D:\SDA 5TH Semester\tms\tms\obj\Debug\tms.csproj.CoreCompileInputs.cache
+D:\SDA 5TH Semester\tms\tms\obj\Debug\tms.csproj.Up2Date
+D:\SDA 5TH Semester\tms\tms\obj\Debug\tms.dll
+D:\SDA 5TH Semester\tms\tms\obj\Debug\tms.pdb
